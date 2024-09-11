@@ -1,0 +1,32 @@
+export default [
+   {
+    id : 1,
+    title : "Mount Fuji",
+    location : "Japan",
+    googleMapsUrl : "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+    startDate : "12 Jan, 2021",
+    endDate : "24 Jan, 2021",
+    description : "Mount Fuji is the highest mountain in Japan, standing at 3,776 meters Mount Fuji is the highest mountain in Japan, standing at 3,776 meters",
+    imageUrl : "https://scrimba.com/links/travel-journal-japan-image-url",
+   },
+   {
+    id : 2,
+    title : "Sydney Opera House",
+    location : "Australia",
+    googleMapsUrl : "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+    startDate : "27 May, 2021",
+    endDate : "8 Jun, 2021",
+    description : "The Sydney Opera House is a multi-venue performing arts centre in Sydney The Sydney Opera House is a multi-venue performing arts centre in Sydney",
+    imageUrl : "https://scrimba.com/links/travel-journal-australia-image-url",
+   },
+   {
+    id : 3,
+    title : "Cappadocia",
+    location : "Turkey",
+    googleMapsUrl : "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+    startDate : "01 Oct, 2021",
+    endDate : "18 Nov, 2021",
+    description : "Cappadocia, Turkey's third-largest city, is one of the most beautiful cities in the world. It's also one of the most important cities in the Middle East. ",
+    imageUrl : "https://scrimba.com/links/travel-journal-norway-image-url",
+   },
+]
